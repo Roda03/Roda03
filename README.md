@@ -109,7 +109,7 @@ Entre las actividades que realizo se encuentran:
 
 ## 🚀 Proyectos destacados
 
-### 🚚 FleteConnect — Plataforma logística B2B
+### 🚚 FleteConnect — Plataforma logística
 
 **Proyecto en desarrollo**
 
