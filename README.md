@@ -5,7 +5,6 @@
 
 ### 💻 Desarrollador Full Stack | PHP • Laravel • Angular • React Native
 
-🎓 Estudiante de Ingeniería Informática en la Universidad Nacional de Asunción (FP-UNA).
 
 🚀 Apasionado por el desarrollo de software, las soluciones empresariales y la construcción de aplicaciones web y móviles.
 
