@@ -104,7 +104,6 @@ Entre las actividades que realizo se encuentran:
 - Análisis, depuración y corrección de errores.
 - Mantenimiento y mejora de aplicaciones existentes.
 
-> Por confidencialidad, el código y la información de los sistemas internos de la empresa no se encuentran publicados en este perfil.
 
 ---
 
